@@ -16,7 +16,7 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 ## How to use ghapplate
 
-Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
+Go to https://github.com/alsuka/ghapplate, click 'fork' button to fork the template to your repository.
 
 ## Features
 
